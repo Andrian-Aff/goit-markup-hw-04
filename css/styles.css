@@ -360,7 +360,7 @@ body {
 
 .social-list-icon:hover,
 .social-list-icon:focus {
-  color: var(--accent-color-text);
+  color: var(--accent-color);
 }
 
 .social-list {
